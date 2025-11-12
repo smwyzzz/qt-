@@ -26,3 +26,5 @@ qt课程作业
     (3)如果选择"食品"，显示 QDateEdit用于选择保质期。
 3.添加一个 QDateTimeEdit用于记录配置的创建时间。
 4.所有配置最终点击“生成报告”按钮后，在一个QLabel或QTextEdit中生成格式化的产品配置摘要。
+untitled7
+模拟的记事本
